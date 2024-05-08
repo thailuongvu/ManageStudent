@@ -1,0 +1,28 @@
+{
+  "list": [
+    {
+      "id": "1",
+      "name": "Dung Nguyen",
+      "tClass": "19CLC",
+      "date": "01/01/2000",
+      "sex": "Male",
+      "hide": false
+    },
+    {
+      "id": "2",
+      "name": "Trung Tran",
+      "tClass": "19CLC",
+      "date": "27/09/2001",
+      "sex": "Male",
+      "hide": false
+    },
+    {
+      "id": "3",
+      "name": "Khang Le",
+      "tClass": "19CLC",
+      "date": "12/02/2001",
+      "sex": "Male",
+      "hide": false
+    }
+  ]
+}
